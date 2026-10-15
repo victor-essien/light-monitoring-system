@@ -1,0 +1,14 @@
+# Private Wi-Fi details
+firmware/**/secrets.h
+
+# Build output
+build/
+*.bin
+*.elf
+*.map
+
+# Editors and OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
